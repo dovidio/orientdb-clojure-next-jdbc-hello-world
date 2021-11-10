@@ -1,6 +1,6 @@
 # orientdb-clojure-jdbc-playground
 
-Minimal scaffolding to get started with OrientDB and Clojure using the [https://github.com/seancorfield/next-jdbc](next.jdbc driver).
+Minimal scaffolding to get started with OrientDB and Clojure using the [next.jdbc driver](https://github.com/seancorfield/next-jdbc).
 
 ## Usage
 
